@@ -10,6 +10,7 @@ Here, we have some examples for that:
 |[Jenkins pipelines](https://github.com/michelleamesquita/jenkins-pipeline-test)|
 |[Automation tests: BDD & Travis-CI & Telegram connection](https://github.com/michelleamesquita/cucumber-bdd-google)|
 |[Monitoring tools: Grafana & Prometheus](https://github.com/michelleamesquita/python-grafana-prometheus)|
+|[Kubernetes](https://github.com/michelleamesquita/kubernetes-simpleapp)|
 |[DevSecOps Pipeline](https://gitlab.com/michelleamesquita/devsecops2)|
 |[Authentication & Authorization](https://github.com/michelleamesquita/go-keycloack)|
 
