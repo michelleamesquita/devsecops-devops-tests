@@ -15,7 +15,7 @@ Here, we have some examples for that:
 |[DevSecOps Pipeline](https://gitlab.com/michelleamesquita/devsecops2)|
 |[Authentication & Authorization](https://github.com/michelleamesquita/go-keycloack)|
 |[Ansible first playbook](https://github.com/michelleamesquita/ansible-first-idea)|
-|[CSV Report Generator](https://github.com/michelleamesquita/report-devsecops)|
+|[Report Generator](https://github.com/michelleamesquita/report-devsecops)|
 
 
 I hope you like it! 💜
