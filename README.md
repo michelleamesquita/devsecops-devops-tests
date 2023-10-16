@@ -12,7 +12,8 @@ Here, we have some examples for that:
 |[Automation tests: BDD & Travis-CI & Telegram connection](https://github.com/michelleamesquita/cucumber-bdd-google)|
 |[Monitoring tools: Grafana & Prometheus](https://github.com/michelleamesquita/python-grafana-prometheus)|
 |[Kubernetes](https://github.com/michelleamesquita/kubernetes-simpleapp)|
-|[DevSecOps Pipeline](https://gitlab.com/michelleamesquita/devsecops2)|
+|[DevSecOps Pipeline - GitLab ](https://gitlab.com/michelleamesquita/devsecops2)|
+|[DevSecOps Pipeline - GitHub](https://github.com/michelleamesquita/pipeline-security)|
 |[Authentication & Authorization](https://github.com/michelleamesquita/go-keycloack)|
 |[Ansible first playbook](https://github.com/michelleamesquita/ansible-first-idea)|
 |[Report Generator](https://github.com/michelleamesquita/report-devsecops)|
