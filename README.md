@@ -17,6 +17,7 @@ Here, we have some examples for that:
 |[Authentication & Authorization](https://github.com/michelleamesquita/go-keycloack)|
 |[Ansible first playbook](https://github.com/michelleamesquita/ansible-first-idea)|
 |[Report Generator](https://github.com/michelleamesquita/report-devsecops)|
+|[Rabbitmq](https://github.com/michelleamesquita/rabbit-mq-appsec)|
 
 
 I hope you like it! 💜
