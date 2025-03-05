@@ -19,5 +19,7 @@ Here, we have some examples for that:
 |[Report Generator](https://github.com/michelleamesquita/report-devsecops)|
 |[Rabbitmq](https://github.com/michelleamesquita/rabbit-mq-appsec)|
 |[MobSF e RASP](https://github.com/michelleamesquita/ovaa)|
+|[Defect Dojo]([https://github.com/michelleamesquita/ovaa](https://github.com/michelleamesquita/defect-dojo-action))|
+
 
 I hope you like it! 💜
